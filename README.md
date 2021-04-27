@@ -9,10 +9,10 @@
 ## CPU搭載版（random_cpu.c)
 1P vs CPUの対戦．CPUは自分が置ける場所にランダムに石を置く．モード選択ができ，対人版と切り替えられる．詳しくは[こちら](http://johoko.blog.fc2.com/blog-entry-21.html)．
 
-<img src="https://user-images.githubusercontent.com/11649428/116291240-51f4d200-a7cf-11eb-8186-80349aa05595.png" width="480px">
+<img src="https://user-images.githubusercontent.com/11649428/116291240-51f4d200-a7cf-11eb-8186-80349aa05595.png" width="400px">
 
 
 ## AI搭載版（alpha_beta_search.c）
 1P vs CPUの対戦．CPUはαβ法の結果を元に石を置く．モード選択ができ，対人版と切り替えられる．また，EASYモード（CPU搭載版）とNORMALモード（AI搭載版）と切り替えられる．詳しくは[こちら](http://johoko.blog.fc2.com/blog-entry-22.html)．
 
-<img src="https://user-images.githubusercontent.com/11649428/116295521-258f8480-a7d4-11eb-9a3b-6b38dd312f63.png" width="500px">
+<img src="https://user-images.githubusercontent.com/11649428/116295521-258f8480-a7d4-11eb-9a3b-6b38dd312f63.png" width="400px">
